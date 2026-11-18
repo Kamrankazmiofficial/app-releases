@@ -1,10 +1,10 @@
 {
   "appId": "com.goal.app",
   "appName": "Goal",
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/v1.2.0/Goal-v1.2.apk",
-  "releaseNotes": "• Daily Inspiration Home Screen Widget\n• Curated 1000+ quotes library (Shia, Tech, Cricket, Punjab)\n• Industry-standard Developer Profile page for Kamran Kazmi\n• Modern Calendar Top Bar redesign\n• Responsive task chips with FlowRow",
+  "versionCode": 4,
+  "versionName": "1.2.1",
+  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/v1.2.1/Goal-v1.2.1.apk",
+  "releaseNotes": "• In-App Auto-Update System with live progress tracking\n• Public version feed integration (private code safe)\n• Manual & silent background update checks\n• Bug fixes & UI responsiveness enhancements",
   "releaseDate": "2026-11-19",
   "forceUpdate": false
 }
