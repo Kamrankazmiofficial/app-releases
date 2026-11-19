@@ -1,10 +1,10 @@
 {
   "appId": "com.trackness.app",
   "appName": "Trackness",
-  "versionCode": 2,
-  "versionName": "1.2.0",
-  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/trackness-v1.2.0/Trackness-v1.2.0.apk",
-  "releaseNotes": "• Smooth Logo popup entrance animation (using pure Trackness brand logo)\n• Complete UI/UX overhaul following Emil Kowalski design engineering principles\n• Responsive, touch-friendly Kanban controls for mobile & desktop\n• Built-in GitHub Releases auto-updater\n• Tabular figures, tight heading tracking, WCAG AA contrast enhancements",
+  "versionCode": 3,
+  "versionName": "1.2.1",
+  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/trackness-v1.2.1/Trackness-v1.2.1.apk",
+  "releaseNotes": "• Fixed Android status bar & gesture navigation bar edge-to-edge insets (no overlapping)\n• Modern expandable search icon replacing static header search bar\n• Strict website data scoping: Board, Updates, Planner, and Search isolate data per website\n• Advanced minimal navigation: active website switcher pill + mobile bottom navigation dock\n• Redesigned typography using Geist & Geist Mono with tabular figures\n• Clean production slate: 0 mock articles, pristine workspace ready for customer use",
   "releaseDate": "2026-11-19",
   "forceUpdate": false
 }
