@@ -1,10 +1,10 @@
 {
   "appId": "com.goal.app",
   "appName": "Goal",
-  "versionCode": 5,
-  "versionName": "1.3.0",
-  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/v1.3.0/Goal-v1.3.0.apk",
-  "releaseNotes": "• Futuristic Cybernetic Target Entrance Animation\n• Full-Width Rectangular Task Cards on Main Screen & Calendar\n• Vertical Rectangular Task Detail Modal Popup\n• Actionable Notification Buttons: Mark Done, Snooze 10m, Open\n• Fixed Real-time Dark/Light Theme Switching\n• 1-Click Google Calendar Auto-Sync integration",
-  "releaseDate": "2026-11-19",
+  "versionCode": 6,
+  "versionName": "1.3.1",
+  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/v1.3.1/Goal-v1.3.1.apk",
+  "releaseNotes": "• Google Calendar Multi-Account Sync Sheet & Dedicated Calendar Tasks Section\n• Minimalist 0.5s Logo Fade & Scale Entrance Animation\n• Ultra-smooth 120fps Page Transitions & Tactile Click Physics\n• Instant Exact Midnight Quote Widget Refresh Engine",
+  "releaseDate": "2026-11-21",
   "forceUpdate": false
 }
