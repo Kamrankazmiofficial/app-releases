@@ -1,10 +1,10 @@
 {
   "appId": "com.goal.app",
   "appName": "Goal",
-  "versionCode": 8,
-  "versionName": "1.3.3",
-  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/v1.3.3/Goal-v1.3.3.apk",
-  "releaseNotes": "• Fixed Calendar Account Selector Popup scrolling: Smooth vertical scroll for all Google accounts\n• Sticky, always-visible bottom Confirmation Button for 1-tap syncing\n• Upgraded account selection cards with avatars, display names, and emails\n• Seamless in-place updates with permanent keystore signature",
-  "releaseDate": "2026-11-21",
+  "versionCode": 9,
+  "versionName": "1.3.4",
+  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/v1.3.4/Goal-v1.3.4.apk",
+  "releaseNotes": "• Google Calendar Events visible in Calendar Tab across days with exact full-day date matching\n• Added Quick 'Sync' Button directly in Calendar Top Bar & Empty State\n• Automatic Exact Notification Reminders armed for every synced Google Calendar task\n• 120-day search horizon (past 30 days to next 90 days) with robust account matching",
+  "releaseDate": "2026-11-23",
   "forceUpdate": false
 }
