@@ -1,10 +1,10 @@
 {
   "appId": "com.trackness.app",
   "appName": "Trackness",
-  "versionCode": 4,
-  "versionName": "1.2.2",
-  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/trackness-v1.2.2/Trackness-v1.2.2.apk",
-  "releaseNotes": "• Ultra-clean & responsive top header across all mobile & desktop screen sizes\n• No overlapping items: Top bar streamlined to Brand + Search + Profile\n• Horizontally scrollable single-row filter strip (zero clutter on mobile)\n• Removed all gradients on all cards and buttons for clean architectural look\n• Appearance (Theme) & Updates relocated into clean Account & Settings modal",
-  "releaseDate": "2026-11-19",
+  "versionCode": 5,
+  "versionName": "1.2.3",
+  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/trackness-v1.2.3/Trackness-v1.2.3.apk",
+  "releaseNotes": "• Complete 2026 UI/UX Architectural Overhaul (November 2026 design principles)\n• Integrated core features from older version: Live Google SERP & SEO Keyword Tracker (#1-100)\n• Universal Article Extractor from URL and WordPress REST API bulk importer\n• Zero gradients on any card or button: pristine flat solid surfaces with subtle 1px borders\n• Ultra-responsive non-overlapping topbar with built-in Website Switcher and expandable search\n• Floating bottom navigation dock with safe-area insets",
+  "releaseDate": "2026-11-24",
   "forceUpdate": false
 }
