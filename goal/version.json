@@ -1,10 +1,10 @@
 {
   "appId": "com.goal.app",
   "appName": "Goal",
-  "versionCode": 9,
-  "versionName": "1.3.4",
-  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/v1.3.4/Goal-v1.3.4.apk",
-  "releaseNotes": "• Google Calendar Events visible in Calendar Tab across days with exact full-day date matching\n• Added Quick 'Sync' Button directly in Calendar Top Bar & Empty State\n• Automatic Exact Notification Reminders armed for every synced Google Calendar task\n• 120-day search horizon (past 30 days to next 90 days) with robust account matching",
+  "versionCode": 10,
+  "versionName": "1.3.5",
+  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/v1.3.5/Goal-v1.3.5.apk",
+  "releaseNotes": "• Google Tasks Integration (Switch to Tasks): Extracts all active and completed tasks across lists (Important Tasks, Ausbildung, Smadent, My Tasks)\n• 1-Tap Instant Google Tasks Import directly into Goal\n• Automatic periodic background sync via WorkManager\n• Auto-scheduled notification reminders for all active Google Tasks",
   "releaseDate": "2026-11-23",
   "forceUpdate": false
 }
