@@ -1,10 +1,10 @@
 {
   "appId": "com.trackness.app",
   "appName": "Trackness",
-  "versionCode": 6,
-  "versionName": "1.2.4",
-  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/trackness-v1.2.4/Trackness-v1.2.4.apk",
-  "releaseNotes": "• Complete 2026 UI/UX design enhancement with preserved features & structure\n• Original Trackness Logo & entrance animation kept intact\n• Obsidian zero-gradient card surfaces with crisp 1px subtle borders\n• Tabular typography (Geist & Geist Mono) for live Google SERP rankings and word counts\n• Optical micro-stroke iconography across all navigation & controls\n• Edge-to-edge safe area padding for modern Android devices",
+  "versionCode": 7,
+  "versionName": "1.2.5",
+  "downloadUrl": "https://github.com/Kamrankazmiofficial/app-releases/releases/download/trackness-v1.2.5/Trackness-v1.2.5.apk",
+  "releaseNotes": "• 1-Click Universal Content Extractor: Extracts all articles from any website (WordPress, Ghost, Substack, Medium, Shopify, Webflow, Hugo, Astro, Next.js, or custom CMS) via RSS, Sitemaps, REST API, & DOM crawling\n• Delete button on every article card, website card, and list view row\n• Mobile Long-Press gesture support: Haptic feedback + action sheet to delete, edit, or move cards\n• Ultra-responsive zero-overlap mobile header with streamlined brand & actions dock",
   "releaseDate": "2026-11-24",
   "forceUpdate": false
 }
